@@ -1,0 +1,44 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+*.fig
+*.p
+*.mex*
+*.mdl.bak
+*.slx.bak
+*.mdlp
+*.slxp
+*.autosave
+*.r????
+*.original
+
+# Simulink
+*.slxc
+*.mdlc
+*.slx.autosave
+*.mdl.autosave
+
+# Resultados y datos temporales
+results/
+temp/
+*.log
+*.xlsx
+*.xls
+*.csv
+
+# Sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
