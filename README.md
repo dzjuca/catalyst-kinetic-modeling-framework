@@ -102,7 +102,7 @@ g_selectivity_analysis(results);
 - **`results/` folder** - Individual plots for each experimental condition
 - **Key calculated variables**:
   - `K_eq_T`: Theoretical equilibrium constant
-  - `K_eq_Aprox`: Approximate equilibrium constant
+  - `K_eq_Aprox`: Approach to the equilibrium
   - `K_eq_R`: Equilibrium constant ratio
   - `Activity`: Catalytic activity factor (a*)
   - `Selectivity`: Selectivity enhancement factor (s*)
@@ -262,7 +262,7 @@ If you use this software in your research, please cite:
 
 **Author**: Daniel Zambrano Juca, Ph.D.  
 **Affiliation**: Department of Chemical and Environmental Engineering, I3A- University of Zaragoza, Spain
-**Contact**: [dzambrano@unizar.es](mailto:dzambrano@unizar.es)  
+**Contact**: [dzambrano@unizar.es](mailto:dzambrano@unizar.es) | [dzjuca@gmail.com](mailto:dzjuca@gmail.com)  
 **Version**: 1.0  
 **Last Updated**: June 2025
 
